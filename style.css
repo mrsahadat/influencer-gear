@@ -140,18 +140,16 @@ footer{
 /* Reponsive  Section CSS*/
 @media only screen and (max-width:688px){
 
-    .start-influencer{
+    .influencer{
         grid-template-columns: repeat(1,1fr);
     }
-    .sponsor{
+    .e-commerce{
         grid-template-columns: repeat(4,1fr);
     }
-    .products{
+    .product-main{
         grid-template-columns: repeat(1,1fr);
     }
-    .subsribe-form{
-        grid-template-columns: repeat(1,1fr);
-    }
+    
 }
 
 /* Reponsive  Section CSS End*/
