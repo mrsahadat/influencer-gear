@@ -149,6 +149,9 @@ footer{
     .product-main{
         grid-template-columns: repeat(1,1fr);
     }
+    .from{
+        grid-template-columns: repeat(1,1fr);
+    }
     
 }
 
